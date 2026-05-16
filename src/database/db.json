@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "brand": "SoundMax",
+    "price": 59.99,
+    "currency": "USD",
+    "stock": 120,
+    "rating": 4.5,
+    "sku": "SM-H1001"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "brand": "HyperTech",
+    "price": 29.99,
+    "currency": "USD",
+    "stock": 85,
+    "rating": 4.3,
+    "sku": "HT-GM202"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "category": "Wearables",
+    "brand": "FitPulse",
+    "price": 149.99,
+    "currency": "USD",
+    "stock": 60,
+    "rating": 4.6,
+    "sku": "FP-SW303"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "brand": "KeyPro",
+    "price": 89.99,
+    "currency": "USD",
+    "stock": 40,
+    "rating": 4.7,
+    "sku": "KP-MK404"
+  },
+  {
+    "id": 5,
+    "name": "4K Monitor",
+    "category": "Electronics",
+    "brand": "ViewPlus",
+    "price": 299.99,
+    "currency": "USD",
+    "stock": 25,
+    "rating": 4.8,
+    "sku": "VP-4K505"
+  },
+  {
+    "id": 6,
+    "name": "USB-C Charger",
+    "category": "Mobile Accessories",
+    "brand": "ChargeFast",
+    "price": 19.99,
+    "currency": "USD",
+    "stock": 200,
+    "rating": 4.4,
+    "sku": "CF-UC606"
+  },
+  {
+    "id": 7,
+    "name": "Portable SSD 1TB",
+    "category": "Storage",
+    "brand": "DataSafe",
+    "price": 129.99,
+    "currency": "USD",
+    "stock": 75,
+    "rating": 4.7,
+    "sku": "DS-SSD707"
+  },
+  {
+    "id": 8,
+    "name": "Action Camera",
+    "category": "Cameras",
+    "brand": "CamGo",
+    "price": 199.99,
+    "currency": "USD",
+    "stock": 35,
+    "rating": 4.5,
+    "sku": "CG-AC808"
+  },
+  {
+    "id": 9,
+    "name": "Laptop Stand",
+    "category": "Office",
+    "brand": "DeskMate",
+    "price": 34.99,
+    "currency": "USD",
+    "stock": 90,
+    "rating": 4.2,
+    "sku": "DM-LS909"
+  },
+  {
+    "id": 10,
+    "name": "Wireless Speaker",
+    "category": "Audio",
+    "brand": "BoomBeat",
+    "price": 79.99,
+    "currency": "USD",
+    "stock": 55,
+    "rating": 4.6,
+    "sku": "BB-WS010"
+  },
+  {
+    "id": 11,
+    "name": "Fitness Tracker",
+    "category": "Wearables",
+    "brand": "HealthFit",
+    "price": 49.99,
+    "currency": "USD",
+    "stock": 110,
+    "rating": 4.1,
+    "sku": "HF-FT111"
+  },
+  {
+    "id": 12,
+    "name": "Drone Camera",
+    "category": "Drones",
+    "brand": "SkyFly",
+    "price": 499.99,
+    "currency": "USD",
+    "stock": 15,
+    "rating": 4.9,
+    "sku": "SF-DC212"
+  },
+  {
+    "id": 13,
+    "name": "Smartphone Tripod",
+    "category": "Photography",
+    "brand": "SnapGear",
+    "price": 24.99,
+    "currency": "USD",
+    "stock": 130,
+    "rating": 4.3,
+    "sku": "SG-ST313"
+  },
+  {
+    "id": 14,
+    "name": "LED Desk Lamp",
+    "category": "Home Office",
+    "brand": "BrightLite",
+    "price": 39.99,
+    "currency": "USD",
+    "stock": 70,
+    "rating": 4.5,
+    "sku": "BL-DL414"
+  },
+  {
+    "id": 15,
+    "name": "Noise Cancelling Earbuds",
+    "category": "Audio",
+    "brand": "QuietTune",
+    "price": 99.99,
+    "currency": "USD",
+    "stock": 95,
+    "rating": 4.6,
+    "sku": "QT-NE515"
+  },
+  {
+    "id": 16,
+    "name": "Tablet 10-inch",
+    "category": "Electronics",
+    "brand": "TabWorld",
+    "price": 249.99,
+    "currency": "USD",
+    "stock": 45,
+    "rating": 4.4,
+    "sku": "TW-TB616"
+  },
+  {
+    "id": 17,
+    "name": "External Hard Drive 2TB",
+    "category": "Storage",
+    "brand": "SafeStore",
+    "price": 89.99,
+    "currency": "USD",
+    "stock": 65,
+    "rating": 4.5,
+    "sku": "SS-HD717"
+  },
+  {
+    "id": 18,
+    "name": "Webcam HD",
+    "category": "Accessories",
+    "brand": "VisionCam",
+    "price": 54.99,
+    "currency": "USD",
+    "stock": 80,
+    "rating": 4.2,
+    "sku": "VC-WC818"
+  },
+  {
+    "id": 19,
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "brand": "ComfortSeat",
+    "price": 189.99,
+    "currency": "USD",
+    "stock": 20,
+    "rating": 4.8,
+    "sku": "CS-OC919"
+  },
+  {
+    "id": 20,
+    "name": "Smart LED Bulb",
+    "category": "Smart Home",
+    "brand": "GlowHome",
+    "price": 14.99,
+    "currency": "USD",
+    "stock": 300,
+    "rating": 4.3,
+    "sku": "GH-SB020"
+  }
+]
